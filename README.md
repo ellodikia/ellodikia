@@ -74,10 +74,7 @@
 
 ---
 
-### 🎮 Play My Game!
-Click here 👉 **[Play Tic-Tac-Toe](https://ellodikia.github.io/tic-tac-toe/)**  
-
-### 🐍 GitHub Contribution Snake
-![Snake animation](https://github.com/your-username/your-username/blob/output/snake.svg)
+### 🎮 Play My Snake Game!
+[▶ Click Here to Play](https://ellodikia.github.io/ellodikia/game-snake/)
 
 
