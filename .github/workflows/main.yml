@@ -1,0 +1,22 @@
+name: Auto Commit Streak
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # setiap hari jam 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "gabriellaodikia@gmail.com"
+          git config --local user.name "ellodikia"
+          date > keep-streak.txt
+          git add keep-streak.txt
+          git commit -m "chore: keep streak alive"
+          git push
