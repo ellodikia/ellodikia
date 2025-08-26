@@ -74,7 +74,8 @@
 
 ---
 
-### 🎮 Play My Snake Game!
-[▶ Click Here to Play](https://ellodikia.github.io/ellodikia/game-snake/)
+### 🎮 Play Snake Game Here!
+[▶ Click to Play](https://ellodikia.github.io/ellodikia/game-snake/)
+
 
 
