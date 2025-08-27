@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-<p align="center">
+<p>
 - 🔭 I’m currently working on **awesome projects**<br>
 - 🌱 I’m currently learning **Python, Node.js, PHP, Databases**<br>
 - 👯 I’m looking to collaborate on **Open Source Projects**<br>
