@@ -46,31 +46,39 @@
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🐍 Python Projects
-[![Project 1](https://img.shields.io/badge/Project%201-Python%20App-blue?style=for-the-badge&logo=python)](https://github.com/ellodikia/project1)
-[![Project 2](https://img.shields.io/badge/Project%202-Data%20Analysis-blue?style=for-the-badge&logo=python)](https://github.com/ellodikia/project2)
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/ellodikia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellodikia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellodikia&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html" />
+</a>
 
-### 🌐 Web Development
-[![Project 3](https://img.shields.io/badge/Project%203-JavaScript%20Web%20App-yellow?style=for-the-badge&logo=javascript)](https://github.com/ellodikia/project3)
-[![Project 4](https://img.shields.io/badge/Project%204-PHP%20Backend-purple?style=for-the-badge&logo=php)](https://github.com/ellodikia/project4)
+<!-- GitHub Streak Stats - INI YANG DIPERBAIKI -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=ellodikia&theme=tokyonight&hide_border=true&background=00000000&dates=FFFFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=00BFFF)](https://git.io/streak-stats)
+
+<!-- Activity Graph -->
+<!-- <a href="https://github.com/ellodikia">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ellodikia&theme=react-dark&hide_border=true&area=true" />
+</a> -->
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects
 
 <div align="center">
 
-![Ellodikia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellodikia&show_icons=true&count_private=true&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&line_height=24&bg_color=0,000000,130F40&text_color=ffffff&title_color=00bfff&icon_color=00bfff)
+### 🐍 Python Projects
+[![Project 1](https://img.shields.io/badge/Project%201-Python%20App-blue?style=for-the-badge&logo=python)](https://github.com/ellodikia)
+[![Project 2](https://img.shields.io/badge/Project%202-Data%20Analysis-blue?style=for-the-badge&logo=python)](https://github.com/ellodikia)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ellodikia&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakLabel=00bfff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ellodikia&layout=compact&theme=tokyonight&hide_border=false&bg_color=000000&title_color=00bfff&text_color=ffffff)
+### 🌐 Web Development
+[![Project 3](https://img.shields.io/badge/Project%203-JavaScript%20Web%20App-yellow?style=for-the-badge&logo=javascript)](https://github.com/ellodikia)
+[![Project 4](https://img.shields.io/badge/Project%204-PHP%20Backend-purple?style=for-the-badge&logo=php)](https://github.com/ellodikia)
 
 </div>
 
@@ -108,11 +116,3 @@
 <p align="center">
   <i>"For the Lord gives wisdom; from his mouth come knowledge and understanding." – Proverbs 2:6</i>
 </p>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ellodikia/ellodikia/output/github-contribution-grid-snake.svg)
-
-</div>
