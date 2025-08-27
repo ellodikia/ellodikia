@@ -25,6 +25,20 @@
 
 ---
 
+## 👨‍💻 Coding Activity
+
+<!-- WakaTime Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ellodikia&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="WakaTime Stats" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellodikia&theme=react-dark&bg_color=00000000&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -56,13 +70,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellodikia&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html" />
 </a>
 
-<!-- GitHub Streak Stats - INI YANG DIPERBAIKI -->
+<!-- GitHub Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=ellodikia&theme=tokyonight&hide_border=true&background=00000000&dates=FFFFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00BFFF&sideLabels=00BFFF)](https://git.io/streak-stats)
-
-<!-- Activity Graph -->
-<!-- <a href="https://github.com/ellodikia">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ellodikia&theme=react-dark&hide_border=true&area=true" />
-</a> -->
 
 </div>
 
