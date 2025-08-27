@@ -7,17 +7,19 @@
 <h3 align="center">A passionate Fullstack Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6E57E0&lines=Fullstack+Developer;Web+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=6E57E0&center=true&lines=Fullstack+Developer;Web+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **awesome projects**
-- 🌱 I’m currently learning **Python, Node.js, PHP, Databases**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development and Databases**
+<p align="center">
+- 🔭 I’m currently working on **awesome projects**<br>
+- 🌱 I’m currently learning **Python, Node.js, PHP, Databases**<br>
+- 👯 I’m looking to collaborate on **Open Source Projects**<br>
+- 💬 Ask me about **Web Development and Databases**<br>
 - ⚡ Fun fact: *I love coding with music 🎵, coffee ☕, and her smile 😉*
+</p>
 
 ---
 
@@ -33,13 +35,28 @@
 
 ---
 
+### 📂 Featured Projects
+<p align="center">
+  <a href="https://github.com/ellodikia/project1" target="_blank">
+    <img src="https://img.shields.io/badge/Project1-Python-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ellodikia/project2" target="_blank">
+    <img src="https://img.shields.io/badge/Project2-JavaScript-yellow?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ellodikia/project3" target="_blank">
+    <img src="https://img.shields.io/badge/Project3-PHP-purple?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellodikia&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ellodikia&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ellodikia&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellodikia&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=5" alt="GitHub Streak" />
 </p>
 
 ---
