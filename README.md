@@ -3,7 +3,7 @@
   <img src="https://github.com/ellodikia/ellodikia/blob/main/img/github-header-banner.png?raw=true" alt="Header Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Gabriel Laodikia Sihombing</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Ell</span></h1>
 <h3 align="center">A Passionate Fullstack Developer 🚀 from Indonesia</h3>
 
 <p align="center">
