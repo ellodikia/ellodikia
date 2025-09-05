@@ -83,7 +83,7 @@
 [![Project 2](https://img.shields.io/badge/Project%202-Data%20Analysis-blue?style=for-the-badge&logo=python)](https://github.com/ellodikia)
 
 ### 🌐 Web Development
-[![Project 3](https://img.shields.io/badge/Project%203-JavaScript%20Web%20App-yellow?style=for-the-badge&logo=javascript)]( https://ellodikia.github.io/OSIS/)
+[![WEB OSIS](https://img.shields.io/badge/Project%203-JavaScript%20Web%20App-yellow?style=for-the-badge&logo=javascript)]( https://ellodikia.github.io/OSIS/)
 [![Project 4](https://img.shields.io/badge/Project%204-PHP%20Backend-purple?style=for-the-badge&logo=php)](https://github.com/ellodikia)
 
 </div>
