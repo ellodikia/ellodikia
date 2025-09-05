@@ -79,15 +79,17 @@
 <div align="center">
 
 ### 🐍 Python Projects
-[![Project 1](https://img.shields.io/badge/Project%201-Python%20App-blue?style=for-the-badge&logo=python)](https://github.com/ellodikia)
-[![Project 2](https://img.shields.io/badge/Project%202-Data%20Analysis-blue?style=for-the-badge&logo=python)](https://github.com/ellodikia)
+[![coming soon](https://img.shields.io/badge/Project%201-Python%20App-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ellodikia)  
+[![coming soon](https://img.shields.io/badge/Project%202-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ellodikia)
+
+---
 
 ### 🌐 Web Development
-[![WEB OSIS](https://img.shields.io/badge/Project%203-Web%20App-blue?style=for-the-badge)](https://ellodikia.github.io/OSIS/)
-
-[![Project 4](https://img.shields.io/badge/Project%204-PHP%20Backend-purple?style=for-the-badge&logo=php)](https://github.com/ellodikia)
+[![WEB OSIS](https://img.shields.io/badge/Project%203-OSIS%20Web-0A66C2?style=for-the-badge)](https://ellodikia.github.io/OSIS/)  
+[![coming soon](https://img.shields.io/badge/Project%204-PHP%20Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/ellodikia)
 
 </div>
+
 
 ---
 
