@@ -85,7 +85,7 @@
 ---
 
 ### 🌐 Web Development
-[![WEB OSIS](https://img.shields.io/badge/Project%203-OSIS%20Web-0A66C2?style=for-the-badge)]( https://ellodikia.github.io/OSIS/)  
+[![WEB OSIS](https://img.shields.io/badge/Project%203-OSIS%20Web-0A66C2?style=for-the-badge)](  https://ellodikia.github.io/OSIS/)  
 [![coming soon](https://img.shields.io/badge/Project%204-PHP%20Backend-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/ellodikia)
 
 </div>
