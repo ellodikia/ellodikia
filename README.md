@@ -29,9 +29,10 @@ Saya adalah siswa **SMK Jurusan RPL** yang bersemangat dalam dunia pemrograman. 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
 ### 🗄️ Database & Tools
@@ -41,6 +42,7 @@ Saya adalah siswa **SMK Jurusan RPL** yang bersemangat dalam dunia pemrograman. 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-FB8C00?style=flat&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/Laragon-24292E?style=flat&logo=laragon&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white" />
 </p>
 
 ---
