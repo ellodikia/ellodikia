@@ -67,10 +67,10 @@ Saya adalah siswa **SMK Jurusan RPL** yang bersemangat dalam dunia pemrograman. 
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🌐 Web OSIS** | Website profil dan informasi kegiatan OSIS. | `PHP`, `Tailwind` |
-| **📊 Dashboard Guru** | Latihan CRUD sederhana untuk manajemen data. | `PHP`, `Tailwind` |
+| **<a href="https://osisraksana.gt.tc/">🌐 Web OSIS</a>** | Website profil dan informasi kegiatan OSIS. | `PHP`, `Tailwind` |
+| **<a href="https://my-teacher.ct.ws/">📊 Dashboard Guru</a>** | Latihan CRUD sederhana untuk manajemen data. | `PHP`, `Tailwind` |
 
----
+--- 
 
 ## 🤝 Let's Connect!
 
