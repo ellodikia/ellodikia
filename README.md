@@ -70,7 +70,7 @@ Saya adalah siswa **SMK Jurusan RPL** yang bersemangat dalam dunia pemrograman. 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **<a href="https://osisraksana.gt.tc/">🌐 OSIS Raksana</a>** | Situs web resmi organisasi siswa untuk informasi kegiatan. | `PHP`, `Tailwind` |
-| **<a href="https://my-teacher.ct.ws/">📊 MyTeacher</a>** | Platform edukasi guru & murid dengan fitur manajemen data. | `PHP`, `Tailwind` |
+| **<a href="https://my-teacher.ct.ws/">📊 MyTeacher</a>** | Platform pengelolan nilai dan data murid. | `PHP`, `Tailwind` |
 | **<a href="https://electro-pay.ct.ws/">💳 Electro-Pay</a>** | Simulasi sistem pembayaran elektronik dan transaksi digital. | `PHP`, `MySQL` |
 | **<a href="https://bookloan.ct.ws/">📚 BookLoan</a>** | Sistem manajemen perpustakaan untuk peminjaman buku. | `PHP`, `Bootstrap` |
 
