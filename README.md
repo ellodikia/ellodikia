@@ -65,8 +65,6 @@ Saya adalah siswa **SMK Jurusan RPL** yang bersemangat dalam dunia pemrograman. 
 
 ## 📂 Featured Projects
 
-## 📂 Featured Projects
-
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **<a href="https://osisraksana.gt.tc/">🌐 OSIS Raksana</a>** | Situs web resmi organisasi siswa untuk informasi kegiatan. | `PHP`, `Tailwind`, `MySQL`  |
