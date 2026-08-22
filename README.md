@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi, I'm <span style="color:#00bfff;">Gabriel Laodikia</span> 👋</h1>
-  <h3>👨‍💻 11th Grade Software Engineering Student (RPL)</h3>
+  <h3>👨‍💻 12th Grade Software Engineering Student (RPL)</h3>
   <p>Fokus membangun pondasi di Web Development & Database Management</p>
   
   <p align="center">
