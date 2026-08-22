@@ -87,7 +87,7 @@
   
   | 🏆 Project Name | 📝 Description | 🚀 Tech Stack |
   | :--- | :--- | :--- |
-  | **<a href="https://osisraksana.gt.tc/">🌐 OSIS Raksana</a>** | Situs web resmi organisasi siswa untuk informasi kegiatan. | `PHP`, `Tailwind`, `MySQL` |
+  | **<a href="https://osisraksana.my.id">🌐 OSIS Raksana</a>** | Situs web resmi organisasi siswa untuk informasi kegiatan. | `Laravel`, `Tailwind`, `MySQL` |
 
 </div>
 
